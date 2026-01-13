@@ -1,7 +1,7 @@
 # Gorilla-Purgatory-Modded
 Gorilla Purgatory Modded by Galaxy
 
-Link: https://gofile.io/d/BI0OCa
+click releases for apk
 
 -- What It Has --  
 - Long Arms
