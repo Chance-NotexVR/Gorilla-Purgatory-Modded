@@ -5,7 +5,8 @@ Link: https://gofile.io/d/BI0OCa
 
 -- What It Has --  
 - Long Arms
-- Better Speed Boost (30%) (yes thats it)
+- Better Speed Boost (30%)
+(yes thats it)
 
 -- Other Stuff --
 
